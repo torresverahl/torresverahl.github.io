@@ -30,7 +30,7 @@ twitter_username: alphahelical
 github_username:  torresverahl
 
 # Build settings
-theme: tactile
+theme: midnight
 plugins:
   - jekyll-feed
 
